@@ -1,90 +1,85 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🌐 Kalion Trends Services
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+A professional multipage website for **Kalion Trends Services**, a Kenyan-based cyber services provider offering HELB loan application support, KRA services, NHIF/NSSF registration, eCitizen services, printing, photocopying, and more.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+This project demonstrates the integration of **HTML5**, **CSS3**, and **JavaScript** into a fully responsive, interactive, and production-ready website.
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
-
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+## 📌 Project Purpose
+Kalion Trends Services website was built to:
+- Provide an **online presence** for the business
+- Showcase services like **HELB, KRA, NHIF, NSSF, eCitizen, Printing, Typing**
+- Make it easy for customers to **learn, explore, and contact** the business
+- Demonstrate best practices in **frontend development & deployment**
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 📑 Website Structure
+The website includes **5 main pages**:
 
-Before deployment, refactor your project to follow production-friendly practices:
+1. **Home (index.html)**
+   - Hero banner with call-to-action
+   - Overview of key services
+   - Navigation to other pages
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+2. **About (about.html)**
+   - Company background
+   - Mission & vision
+   - Why choose Kalion Trends
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+3. **Services (services.html)**
+   - Detailed list of services
+   - HELB, KRA, NHIF, NSSF, eCitizen, printing, typing, etc.
 
----
+4. **Gallery (gallery.html)**
+   - Image showcase of service logos (HELB, KRA, NHIF, etc.)
+   - Visual presentation of services offered
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+5. **Contact (contact.html)**
+   - Contact form with validation
+   - Business location, phone, email, WhatsApp
 
 ---
 
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+## 🛠️ Tech Stack
+- **HTML5** – Semantic structure
+- **CSS3** – Responsive design, animations, hover effects
+- **JavaScript (Vanilla JS)** – Mobile menu toggle, form validation
+- **Deployment** – GitHub Pages / Netlify / Vercel
 
 ---
 
-## Outcome
+## 📂 Project File Structure
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+│
+├── index.html
+├── about.html
+├── services.html
+├── gallery.html
+├── contact.html
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ └── script.js
+│
+└── images/
+├── hero.jpg
+├── helb.png
+├── kra.png
+├── nhif.png
+├── nssf.png
+├── ecitizen.png
+├── printing.png
+└── typing.png
+
+---
+
+## 🚀 Deployment
+hosted this project using github static site hosting provider:
+
+
+## 🔗 Live Demo
+👉 [View Website Here](https://your-live-link-here.com)
